@@ -17,5 +17,11 @@
 ##
   
  <div> 
-  <a href="https://instagram.com/ednaellll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:efvs@cin.ufpe.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ednael-vieira-b93423173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+ </div>
+  
+### Artigos Científicos 📝:
+- [Proposição de um modelo multicritério para suporte ao gerenciamento de sistemas de coleta de resíduos eletroeletrônicos](https://abepro.org.br/biblioteca/TN_STO_291_1645_37810.pdf) 
+- [Uma análise sobre o uso da pesquisa operacional no suporte ao gerenciamento de resíduos eletroeletrônicos](https://abepro.org.br/biblioteca/TN_STO_258_481_36142.pdf) 
