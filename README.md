@@ -26,5 +26,7 @@
  </div>
   
 ### Artigos Científicos 📝:
+- [Exposer: Framework para Detecção de Anomalias emLicitações Públicas] (https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21847/21671)
 - [Proposição de um modelo multicritério para suporte ao gerenciamento de sistemas de coleta de resíduos eletroeletrônicos](https://abepro.org.br/biblioteca/TN_STO_291_1645_37810.pdf) 
-- [Uma análise sobre o uso da pesquisa operacional no suporte ao gerenciamento de resíduos eletroeletrônicos](https://abepro.org.br/biblioteca/TN_STO_258_481_36142.pdf) 
+- [Uma análise sobre o uso da pesquisa operacional no suporte ao gerenciamento de resíduos eletroeletrônicos](https://abepro.org.br/biblioteca/TN_STO_258_481_36142.pdf)
+
