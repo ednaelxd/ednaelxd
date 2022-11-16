@@ -1,7 +1,8 @@
 ### Olá, sou o Ednael Vieira👋
 
-- 👩🏻‍💻 Atuo atualmente como Residente em Ciência de Dados pelo programa de parceria entre CIn e Samsung
-- 📝 Graduado em Engenharia de Produção (UFPE-CAA) e Especialização em Ciência de Dados (CIn-UFPE)
+- 👩🏻‍💻 Atuei recentemente como Residente em Ciência de Dados pelo programa de parceria entre CIn e Samsung
+- 📝 Epecialização em Ciência de Dados (CIn-UFPE)
+- 📝 Graduado em Engenharia de Produção (UFPE-CAA)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ednaelxd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
