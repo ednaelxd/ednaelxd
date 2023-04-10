@@ -1,5 +1,6 @@
 ### Olá, sou o Ednael Vieira👋
 
+- 👩🏻‍💻 Atualemente Mestrando em Eng de Produção - Usando Ciência de Dados para desenvolver estudos em gerenciamento de resíduos eletrônicos
 - 👩🏻‍💻 Atuei recentemente como Residente em Ciência de Dados pelo programa de parceria entre CIn e Samsung
 - 📝 Epecialização em Ciência de Dados (CIn-UFPE)
 - 📝 Graduado em Engenharia de Produção (UFPE-CAA)
